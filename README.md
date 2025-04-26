@@ -1,6 +1,7 @@
 # Hi there 👋 I'm Fatima!
 
 🌟 Welcome to my GitHub! I'm passionate about coding, learning new technologies, and building creative solutions.
+This profile is built using Markdown to create a simple, readable format!
 
 ---
 
@@ -14,7 +15,11 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🚀 Skills
+
+- Web Development (HTML, CSS, JavaScript)
+- Programming (Python, C++, Java)
+- Markdown and GitHub Workflow
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -23,5 +28,31 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </div>
+---
+
+## 📋 Current Projects
+
+- [ ] Learn advanced GitHub Actions
+- [x] Build an Object-Oriented Car Reservation and Rental System
+- [ ] Create Python applications using PyCharm
 
 ---
+
+## 🛠️ Tools I Use
+
+| Tool        | Purpose                   |
+|-------------|----------------------------|
+| VSCode      | Code Editor                |
+| GitHub      | Version Control & Hosting  |
+| StackEdit   | Writing and Previewing Markdown |
+| PyCharm     | Professional Python Development   |
+
+## ✨ Example Code Block
+
+```python
+# Example Python Code
+def greet(name):
+    print(f"Hello, {name}! Welcome to my GitHub profile.")
+
+greet("Visitor")
+
