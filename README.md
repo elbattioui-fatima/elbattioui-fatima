@@ -26,7 +26,8 @@ This profile is built using Markdown to create a simple, readable format!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+  <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem-2048x1280.jpg" alt="Java" width="40" height="40"/>
+  <img src="https://www.pngall.com/wp-content/uploads/13/Github-Logo.png" alt="GitHub" width="40" height="40"/>
 </div>
 
 ---
