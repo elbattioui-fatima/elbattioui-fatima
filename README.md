@@ -28,6 +28,7 @@ This profile is built using Markdown to create a simple, readable format!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
 </div>
+
 ---
 
 ## 📋 Current Projects
@@ -46,6 +47,8 @@ This profile is built using Markdown to create a simple, readable format!
 | GitHub      | Version Control & Hosting  |
 | StackEdit   | Writing and Previewing Markdown |
 | PyCharm     | Professional Python Development   |
+
+---
 
 ## ✨ Example Code Block
 
